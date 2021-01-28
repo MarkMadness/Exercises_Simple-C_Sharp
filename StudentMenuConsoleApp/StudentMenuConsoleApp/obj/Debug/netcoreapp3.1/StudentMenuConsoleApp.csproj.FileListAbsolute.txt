@@ -1,0 +1,13 @@
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\bin\Debug\netcoreapp3.1\StudentMenuConsoleApp.exe
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\bin\Debug\netcoreapp3.1\StudentMenuConsoleApp.deps.json
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\bin\Debug\netcoreapp3.1\StudentMenuConsoleApp.runtimeconfig.json
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\bin\Debug\netcoreapp3.1\StudentMenuConsoleApp.runtimeconfig.dev.json
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\bin\Debug\netcoreapp3.1\StudentMenuConsoleApp.dll
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\bin\Debug\netcoreapp3.1\StudentMenuConsoleApp.pdb
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\obj\Debug\netcoreapp3.1\StudentMenuConsoleApp.csprojAssemblyReference.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\obj\Debug\netcoreapp3.1\StudentMenuConsoleApp.AssemblyInfoInputs.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\obj\Debug\netcoreapp3.1\StudentMenuConsoleApp.AssemblyInfo.cs
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\obj\Debug\netcoreapp3.1\StudentMenuConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\obj\Debug\netcoreapp3.1\StudentMenuConsoleApp.dll
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\obj\Debug\netcoreapp3.1\StudentMenuConsoleApp.pdb
+C:\Users\CyberPower_MarkR\Desktop\CodeProjects\Exercises-Simple\C_Sharp\StudentMenuConsoleApp\StudentMenuConsoleApp\obj\Debug\netcoreapp3.1\StudentMenuConsoleApp.genruntimeconfig.cache

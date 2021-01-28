@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CyberPower_MarkR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CyberPower_MarkR\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
